@@ -15,9 +15,12 @@ body{
 .Inicio{
     background-image: url('../img/PlanoFundo2.png');
 }
+.Portuguesa{
+    background-image: url('../img/Plano\ de\ Fundo3.png');
+}
 nav {
     color: white;
-    width: 100vw;
+    
     display: flex;
     height: 13vh;
     align-items: center;
@@ -79,4 +82,7 @@ nav {
 .Titulo{
     display: flex;
     justify-content: center;
+}
+.subText{
+    margin-left: 50px;
 }
